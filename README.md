@@ -1,6 +1,5 @@
 - # Sobre mim
  Olá meu nome é Pedro e está é minha pagina e sou um estudante de pensamento computacional.
- a
 
 
 - 👀 I’m interested in ...
