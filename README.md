@@ -1,5 +1,5 @@
 - # Sobre mim
- Olá meu nome é Pedro e está é minha pagina e sou um estudante de pensamento computacional.
+ Olá meu nome é Pedro e está é minha pagina e sou um estudante.
 
 
 - 👀 I’m interested in ...
