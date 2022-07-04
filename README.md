@@ -1,6 +1,5 @@
 - # Sobre mim
- Olá meu nome é Pedro e está é minha pagina.
- Sou estudante e gosto de programar.
+ Olá meu nome é Pedro e está é minha pagina, sou estudante e gosto de programar.
 
 <!---
 Obscure777/Obscure777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
