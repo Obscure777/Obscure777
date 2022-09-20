@@ -1,5 +1,5 @@
 - # Sobre mim
- Olá meu nome é Pedro e está é minha pagina, sou estudante e gosto de programar.
+ Olá meu nome é Pedro e está é minha pagina, sou estudante e gosto de programar html e css atualmente.
  
 <img src="KRATOS.jpg" alt="Texto alternativo" title="KRATOS" />
 <img src="swords.jpg" alt="espadas" title="swords"
